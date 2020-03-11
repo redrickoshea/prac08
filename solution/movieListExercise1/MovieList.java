@@ -10,8 +10,8 @@ import java.util.TreeMap;
  * [This class is one possible answer to the first prac exercise - it
  * satisfies all the tests in the provided JUnit class.]
  * 
- * @author Colin Fidge
- * @version 2.1
+ *
+ *
  *
  */
 public class MovieList {

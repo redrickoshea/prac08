@@ -3,8 +3,8 @@ package movieListExercise3;
 /**
  * A class for rating movies from one to five stars.
  * 
- * @author Colin Fidge
- * @version 2.2
+ *
+ *
  */
 public class Stars implements Rating {
 

@@ -13,8 +13,8 @@ import movieListExercise3.MovieListException;
  * 
  * [This class is one possible answer to the third prac exercise.]
  * 
- * @author Colin Fidge
- * @version 2.0
+ *
+ *
  *
  */
 public class MovieList {

@@ -4,8 +4,8 @@ package movieListExercise3;
  * A class for movie ratings expressed in a range from "two thumbs up"
  * to "two thumbs down".
  * 
- * @author Colin Fidge
- * @version 2.1
+ *
+ *
  */
 public class Thumbs implements Rating {
 

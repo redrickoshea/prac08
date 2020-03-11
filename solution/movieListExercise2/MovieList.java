@@ -13,8 +13,8 @@ import movieListExercise2.MovieListException;
  * [This class is one possible answer to the second prac exercise.
  * Note the changes to method setRating.]
  * 
- * @author Colin Fidge
- * @version 2.0
+ *
+ *
  *
  */
 public class MovieList {

@@ -3,8 +3,8 @@ package movieListExercise3;
 /**
  * A class specifying the "rating" associated with a movie.
  * 
- * @author Colin Fidge
- * @version 2.1
+ *
+ *
  */
 public interface Rating {
 
