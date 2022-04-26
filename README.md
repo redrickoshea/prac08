@@ -1,19 +1,16 @@
 CAB302 Software Development
 ===========================
 
-# Week 4: Git and Test Driven Development
+# Week 4: Test Driven Development
 
-There are two components to this week's practical exercises, one focused on introducing you to Git, while the other will give you an opportunity to try Test-Driven Development in a Java/IntelliJ/JUnit programming environment.
+This week's practical exercises will give you an opportunity to try Test-Driven Development in a Java/IntelliJ/JUnit programming environment.
 
-## Exercise 1: Coming to grips with Git
-
-These exercises are [available in a PDF inside this repository](Week4-Git.pdf).
-
-## Exercise 2: A list of movie ratings
+## Exercise 1: A list of movie ratings
 
 In this exercise you will use Test-Driven Development to produce a class called `MovieList` for maintaining a list of
 movie ratings. To get you started, the file `Movie-ListTest.java` contains some JUnit tests, which are commented out.
-You should *uncomment these tests one at a time*, and follow the 'red-green-refactor' process to get each test to pass. (Hint: Select a block of code, then use Ctrl+/ to comment/uncomment that block).
+You should *uncomment these tests one at a time*, and follow the 'red-green-refactor' process to get each test to pass.
+(Hint: Select a block of code, then use Ctrl+/ to comment/uncomment that block).
 
 Overall, the tests are intended to drive you towards developing a class which maintains a list of movie titles, each of
 which has an associated *rating*. Ratings are assumed to be on a scale of one to five 'stars', e.g. '***'.
@@ -30,7 +27,7 @@ will automatically insert templates for missing classes, methods, etc., thus sav
 Also provided is a simple exception class, MovieListException.java, to support
 tests that may throw exceptions.
 
-## Exercise 3: Stars versus Thumbs
+## Exercise 2: Stars versus Thumbs
 
 The given set of tests assumed that ratings associated with movies are expressed as a number of stars. However, many
 film critics use a different scale for film ratings, ranging from 'two thumbs up' to 'two thumbs down'.
@@ -50,7 +47,7 @@ suggests that these two scoring systems should be subtypes of a common 'rating' 
 scores in 'stars' from those in 'thumbs'. Remember that maintaining the tests is just as important as developing the
 program code!
 
-## Exercise 4: Academy Award Winners
+## Exercise 3: Academy Award Winners
 
 In this exercise you will introduce a *mock* object to represent an external data source.
 The annual Academy Awards, or 'Oscars', have a big impact on a movie's fortunes. One of the given tests,
