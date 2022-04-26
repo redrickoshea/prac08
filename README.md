@@ -1,7 +1,7 @@
 CAB302 Software Development
 ===========================
 
-# Week 4: Test Driven Development
+# Week 8: Test Driven Development
 
 This week's practical exercises will give you an opportunity to try Test-Driven Development in a Java/IntelliJ/JUnit programming environment.
 
